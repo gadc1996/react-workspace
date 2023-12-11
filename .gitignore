@@ -1,0 +1,6 @@
+# Dotfiles
+.dotfiles/zsh/.zcompdump*
+.dotfiles/zsh/.zsh_history
+
+# Dev container 
+.devcontainer/.env
