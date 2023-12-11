@@ -102,8 +102,6 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
-alias python="poetry run python"
-alias pip="poetry"
-
+#
 DISABLE_AUTO_UPDATE=true
 DISABLE_UPDATE_PROMPT=true

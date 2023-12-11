@@ -1,3 +1,3 @@
-FROM python:3.11-bullseye
+FROM oven/bun:latest
 
 WORKDIR /app
